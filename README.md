@@ -1,4 +1,6 @@
-# Inter-Process-Communication CS-370 Project 3
+# Inter-Process-Communication 
+Project for my Operating Systems class.
+
 README
 ======
 
